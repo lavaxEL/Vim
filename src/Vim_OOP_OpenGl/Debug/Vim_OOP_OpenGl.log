@@ -1,0 +1,85 @@
+﻿  TextEditor.cpp
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(29,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(85,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(327,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(371,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(373,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(467,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(517,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(536,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(541,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(547,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(550,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(562,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(567,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(578,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(737,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(781,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(789,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(790,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(775,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(769): message : во время компиляции функции-члена класс шаблон "bool String<char>::operator !=(String<char>)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(257): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool String<char>::operator !=(String<char>)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.h(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "String<char>"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(775,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(728,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(725): message : во время компиляции функции-члена класс шаблон "String<char> &String<char>::operator =(String<char>)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(328): message : выполняется компиляция ссылки на экземпляр шаблон функции "String<char> &String<char>::operator =(String<char>)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(686,2): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(684): message : во время компиляции функции-члена класс шаблон "int String<char>::find(const T *,size_t)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(540): message : выполняется компиляция ссылки на экземпляр шаблон функции "int String<char>::find(const T *,size_t)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(644,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(636): message : во время компиляции функции-члена класс шаблон "void String<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(298): message : выполняется компиляция ссылки на экземпляр шаблон функции "void String<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(626,2): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(622): message : во время компиляции функции-члена класс шаблон "void String<char>::erase(size_t,size_t)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\TextEditor.cpp(252): message : выполняется компиляция ссылки на экземпляр шаблон функции "void String<char>::erase(size_t,size_t)"
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(592,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(582): message : во время компиляции функции-члена класс шаблон "void String<char>::insert(size_t,const T *)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(737): message : выполняется компиляция ссылки на экземпляр шаблон функции "void String<char>::insert(size_t,const T *)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(598,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(324,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(301): message : во время компиляции функции-члена класс шаблон "void DynArray<T>::insert(Base_iterator<T>,size_t,const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(580): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynArray<T>::insert(Base_iterator<T>,size_t,const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(496): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DynArray<T>"
+          with
+          [
+              T=char
+          ]
+C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Vim_OOP_OpenGl\DynArray.h(330,2): warning C4018: <: несоответствие типов со знаком и без знака
+  Vim_OOP_OpenGl.vcxproj -> C:\Users\Евгений\Source\Repos\Vim_OOP_OpenGl\Debug\Vim_OOP_OpenGl.exe
